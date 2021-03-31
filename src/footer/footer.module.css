@@ -1,0 +1,15 @@
+@value makerGreen from '../common/colors.css';
+@value makerWhite from '../common/colors.css';
+
+.container{
+    height: 2rem;
+    padding: 1px;
+    background-color: makerGreen;
+}
+
+p {
+    margin: auto;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: makerWhite;
+}
